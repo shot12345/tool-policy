@@ -1,5 +1,7 @@
 {
-  "allowed": [],
+  "allowed": [
+    "3bdb444c40bb42a35a3e6bb2e6d3ddfe12edb7cc2178edb90d435b0f4773ffc8"
+  ],
   "blocked": [],
   "message": "未許可の端末です。管理者に連絡してください。"
 }
